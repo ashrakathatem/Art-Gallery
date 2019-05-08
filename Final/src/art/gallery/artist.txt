@@ -1,0 +1,58 @@
+Salvador Dali@spain@85@paintings
+Persistence of Memory@1952@6800.0@Style: Surrealism,Genre: landscape@3@4@2
+barbara hepworth@england@72@Statues
+mother and child@1927@2000.0@Style:Hoptonwood stone@5@5@0
+Leonardo da Vinci@italy@67@paintings
+The Last Supper@1495@40000.0@Style:High Renaissance,Genre:religious@2@3@2
+Marcello Bacciarelli@italy@86@19thcentury
+Blue Marquise@1770@500.0@Style: Baroque,Genre: portrait@4@3@0
+barbara hepworth@england@72@Statues
+doves@1927@1000.0@Style:Parian marble@2@3@2
+Joseph Marie Vien@france@93@19thcentury
+Anachorète endormi@1751@5000.0@Style:Rococo,Genre: genre painting@2@3@1
+George Bellows@america@42@American_Realism
+Pennsylvania Excavation@1907@2000.0@AmericanRealism,Genre:landscape@3@3@0
+George Bellows@america@42@American_Realism
+Forty two kids@1907@6000.0@AmericanRealism,Genre:painting@3@3@0
+Auguste rodin@france@77@Statues
+eve@1880@1500.0@Style:White Marble,Strong influence from Michel@3@3@2
+Henry Fuseli@switzerland@84@19thcentury
+the nightmare@1781@3080.0@Style:Romanticism,Genre:symbolic@2@3@1
+Auguste rodin@france@77@Statues
+the cathedral@1908@4000.0@Style:Stone,It shows two right hands@4@3@3
+Henry Fuseli@switzerland@84@19thcentury
+the death ofo edipus@1784@3000.0@Style: Romanticism,Genre: mythological@2@3@2
+Robert Henri@america@64@American_Realism
+En el bosque@1890@4000.0@AmericanRealism,Genre:landscape@2@3@2
+Vincet Van Gogh@zundert@37@paintings
+Still Life - Vase with Fifteen Sunflowers@1888@400.0@Style:Post-Impressionism,Genre:flowers@3@4@1
+Joseph Marie Vien@france@93@19thcentury
+The Seller of Cupids@1763@1500.0@Style:Rococo,Genre:genre painting@2@3@1
+Marcello Bacciarelli@italy@86@19thcentury
+Union_of_Lublin@1796@8000.0@Style: Baroque,Genre: history painting@2@5@2
+Leonardo da Vinci@italy@67@paintings
+Mona Lisa@1503@20000.0@Style: High Renaissance,Genre: portrait@6@2@0
+Auguste rodin@france@77@Statues
+danaid@1890@1000.0@Style:Marble,the daughters of King لnaos@3@3@0
+sdfghj@asdfghjk@77@Statues
+asdfghjk@7770@345678.0@asdfghj@0@0@1
+Salvador Dali@spain@85@paintings
+the-endless-enigma@1938@1000.0@Style: Surrealism,Genre: symbolic painting@3@4@1
+Rockwell Kent@america@88@American_Realism
+Men and Mountains@1909@3000.0@AmericanRealism,Genre:cloudscape@2@3@1
+Leonardo da Vinci@italy@67@paintings
+Madonna of the Yarnwinder@1510@7000.0@Style:Renaissance,Genre:religious@5@4@0
+Rockwell Kent@america@88@American_Realism
+The Palisades@1909@2000.0@AmericanRealism,Genre:landscape@4@3@1
+George Bellows@america@42@American_Realism
+Paddy Flannigan@1908@1800.0@American Realism,Genre:portrait@3@3@0
+Vincet Van Gogh@zundert@37@paintings
+Cafe Terrace,Place du Forum,Arles@1888@1000.0@Style:Impressionism,Genre:cityscape@4@3@1
+Salvador Dali@spain@85@paintings
+Melting Watch@1954@10.0@Style: Surrealism,Genre:symbolic@4@5@2
+Rockwell Kent@america@88@American_Realism
+Island Village Coast of Maine@1909@5500.0@AmericanRealism,Genre:landscape@4@3@2
+Robert Henri@america@64@American_Realism
+Cafe du dome@1892@5000.0@American Realism,Genre:cityscape@2@3@2
+Joseph Marie Vien@france@93@19thcentury
+Sweet Melancholy@1756@3000.0@Style:Rococo,Genre:allegorical painting@3@3@2

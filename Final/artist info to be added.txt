@@ -1,0 +1,8 @@
+Robert Henri@america@64@American_Realism
+Street Corner@1896@2000.0@AmericanRealism,Genre:painting@2@3@2
+Henry Fuseli@switzerland@84@19thcentury
+prospero@1789@2000.0@Style: Romanticism,Genre: literary painting@2@4@2
+barbara hepworth@england@72@Statues
+two forms@1937@4500.0@Style:Serravezza marble@3@3@1
+Vincet Van Gogh@zundert@37@pantings
+starry night@1889@8020.0@Style:Impressionism,Genre:cloudscape@2@3@1

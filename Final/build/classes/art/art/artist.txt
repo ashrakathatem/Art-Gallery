@@ -1,0 +1,43 @@
+Joseph Marie Vien@france@93@19thcentury@3
+Anachorète endormi@1751@5000.0@Style:Rococo,Genre: genre painting
+Sweet Melancholy@1756@3000.0@Style:Rococo,Genre:allegorical painting
+The Seller of Cupids@1763@1500.0@Style:Rococo,Genre:genre painting
+Rockwell Kent@america@88@American_Realism@3
+Island Village Coast of Maine@1909@5500.0@Style:American Realism,Genre:landscape, genre painting
+Men and Mountains@1909@3000.0@Style:American Realism,Genre:genre painting, cloudscape
+The Palisades@1909@2000.0@Style:American Realism,Genre:landscape
+George Bellows@america@42@American_Realism@3
+Forty two kids@1907@6000.0@Style: American Realism,Genre:genre painting
+Paddy Flannigan@1908@1800.0@Style:American Realism,Genre:portrait
+Pennsylvania Excavation@1907@2000.0@Style:American Realism,Genre:landscape
+Auguste rodin@france@77@Statues@3
+danaid@1890@1000.0@Style:Marble Sculpture,one of the daughters of King Dلnaos
+eve@1880@1500.0@Style:White Marble Sculpture,It shows a strong influence from Michelangelo
+the cathedral@1908@4000.0@Style:Stone Sculpture,It shows two intertwined right hands belonging to two different figures
+Vincet Van Gogh@zundert@37@pantings@3
+starry night@1889@8020.0@Style: Post-Impressionism,Genre: cloudscape
+Cafe Terrace,Place du Forum,Arles@1888@1000.0@Style: Post-Impressionism,Genre: cityscape
+Still Life - Vase with Fifteen Sunflowers@1888@400.0@Style: Post-Impressionism,Genre: flower painting
+Robert Henri@america@64@American_Realism@3
+Cafe du dome@1892@5000.0@Style:American Realism,Genre:cityscape
+En el bosque@1890@4000.0@Style:American Realism,Genre:landscape
+Street Corner@1896@2000.0@Style:American Realism,Genre:genre painting
+Salvador Dali@spain@85@pantings@3
+Melting Watch@1954@10.0@Style: Surrealism,Genre: symbolic painting
+Persistence of Memory@1952@6800.0@Style: Surrealism,Genre: landscape
+the-endless-enigma@1938@1000.0@Style: Surrealism,Genre: symbolic painting
+Leonardo da Vinci@italy@67@pantings@3
+Madonna of the Yarnwinder@1510@7000.0@Style: High Renaissance,Genre: religious paiting
+Mona Lisa@1503@20000.0@Style: High Renaissance,Genre: portrait
+The Last Supper@1495@40000.0@Style: High Renaissance,Genre: religious painting
+Marcello Bacciarelli@italy@86@19thcentury@3
+Blue Marquise@1770@500.0@Style: Baroque,Genre: portrait
+Union of Lublin@1796@8000.0@Style: Baroque,Genre: history painting
+Henry Fuseli@switzerland@84@19thcentury@3
+prospero@1789@2000.0@Style: Romanticism,Genre: literary painting
+the death ofo edipus@1784@3000.0@Style: Romanticism,Genre: mythological
+the nightmare@1781@3080.0@Style: Romanticism,Genre: symbolic painting
+barbara hepworth@england@72@Statues@3
+doves@1927@1000.0@Style:Parian marble
+mother and child@1927@2000.0@Style:Hoptonwood stone
+two forms@1937@4500.0@Style:Serravezza marble

@@ -1,0 +1,7 @@
+backcolor :[247,247,199]
+font:barelin sans bold 38
+forecolor:[123,80,38]
+border:[247,247,199]
+Welcome our Beautiful Customer  
+463D0C
+E3EAA3
